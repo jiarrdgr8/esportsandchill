@@ -32,7 +32,7 @@ function Right() {
         // console.log(dotaMatches);
 
         dotaMatches.sort((a, b) => {
-          return a.timeStamp - b.timeStamp;
+          return a.startTimestamp - b.startTimestamp;
         });
         setDotaMatches(dotaMatches);
         console.log(dotaMatches); 
