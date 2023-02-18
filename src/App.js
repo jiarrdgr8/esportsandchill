@@ -17,7 +17,12 @@ function App() {
           <div className="bg-pink-500 sm:min-h-full flex-grow border border-gray-400">
             <Center />
           </div>
-          <div className="bg-pink-500 sm:min-h-full w-3/12 border border-gray-400">
+          <div className="bg-pink-500 sm:min-h-full w-3/12 border border-gray-400 flex flex-col justify-start align-middle">
+            <div className="flex">
+              <div>Match Ticker</div>
+              <div>Schedule</div>
+              <div>Results</div>
+            </div>
             <Right />
           </div>
         </div>
