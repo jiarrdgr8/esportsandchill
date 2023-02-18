@@ -324,6 +324,782 @@
     },
     {
       "tournament": {
+        "name": "IEM Playoffs",
+        "slug": "iem-playoffs",
+        "category": {
+          "name": "CS:GO",
+          "slug": "csgo",
+          "sport": {
+            "name": "E-sports",
+            "slug": "esports",
+            "id": 72
+          },
+          "id": 1572,
+          "flag": "csgo"
+        },
+        "uniqueTournament": {
+          "name": "IEM",
+          "slug": "iem",
+          "category": {
+            "name": "CS:GO",
+            "slug": "csgo",
+            "sport": {
+              "name": "E-sports",
+              "slug": "esports",
+              "id": 72
+            },
+            "id": 1572,
+            "flag": "csgo"
+          },
+          "userCount": 0,
+          "hasPerformanceGraphFeature": false,
+          "id": 16163,
+          "hasEventPlayerStatistics": false,
+          "displayInverseHomeAwayTeams": false
+        },
+        "priority": 0,
+        "id": 89666
+      },
+      "customId": "yIudsCrId",
+      "status": {
+        "code": 0,
+        "description": "Not started",
+        "type": "notstarted"
+      },
+      "homeTeam": {
+        "name": "Corinthians Esports",
+        "slug": "corinthians-esports",
+        "shortName": "Corinthians Esports",
+        "sport": {
+          "name": "E-sports",
+          "slug": "esports",
+          "id": 72
+        },
+        "userCount": 0,
+        "type": 0,
+        "id": 424173,
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#52b030",
+          "secondary": "#52b030",
+          "text": "#ffffff"
+        }
+      },
+      "awayTeam": {
+        "name": "TropiCaos",
+        "slug": "tropicaos",
+        "shortName": "TropiCaos",
+        "sport": {
+          "name": "E-sports",
+          "slug": "esports",
+          "id": 72
+        },
+        "userCount": 0,
+        "type": 0,
+        "id": 458377,
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#52b030",
+          "secondary": "#52b030",
+          "text": "#ffffff"
+        }
+      },
+      "homeScore": {},
+      "awayScore": {},
+      "coverage": 91,
+      "time": {},
+      "changes": {
+        "changeTimestamp": 0
+      },
+      "hasGlobalHighlights": false,
+      "id": 11057355,
+      "bestOf": 1,
+      "eventType": "best_of",
+      "startTimestamp": 1676235600,
+      "slug": "tropicaos-corinthians-esports",
+      "finalResultOnly": false
+    },
+    {
+      "tournament": {
+        "name": "IEM Playoffs",
+        "slug": "iem-playoffs",
+        "category": {
+          "name": "CS:GO",
+          "slug": "csgo",
+          "sport": {
+            "name": "E-sports",
+            "slug": "esports",
+            "id": 72
+          },
+          "id": 1572,
+          "flag": "csgo"
+        },
+        "uniqueTournament": {
+          "name": "IEM",
+          "slug": "iem",
+          "category": {
+            "name": "CS:GO",
+            "slug": "csgo",
+            "sport": {
+              "name": "E-sports",
+              "slug": "esports",
+              "id": 72
+            },
+            "id": 1572,
+            "flag": "csgo"
+          },
+          "userCount": 0,
+          "hasPerformanceGraphFeature": false,
+          "id": 16163,
+          "hasEventPlayerStatistics": false,
+          "displayInverseHomeAwayTeams": false
+        },
+        "priority": 0,
+        "id": 89666
+      },
+      "customId": "uvvdsptEd",
+      "status": {
+        "code": 0,
+        "description": "Not started",
+        "type": "notstarted"
+      },
+      "homeTeam": {
+        "name": "Fluxo",
+        "slug": "fluxo",
+        "shortName": "Fluxo",
+        "sport": {
+          "name": "E-sports",
+          "slug": "esports",
+          "id": 72
+        },
+        "userCount": 0,
+        "type": 0,
+        "id": 426019,
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#52b030",
+          "secondary": "#52b030",
+          "text": "#ffffff"
+        }
+      },
+      "awayTeam": {
+        "name": "FUSION",
+        "slug": "fusion",
+        "shortName": "FUSION",
+        "sport": {
+          "name": "E-sports",
+          "slug": "esports",
+          "id": 72
+        },
+        "userCount": 0,
+        "type": 0,
+        "id": 448415,
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#52b030",
+          "secondary": "#52b030",
+          "text": "#ffffff"
+        }
+      },
+      "homeScore": {},
+      "awayScore": {},
+      "coverage": 91,
+      "time": {},
+      "changes": {
+        "changeTimestamp": 0
+      },
+      "hasGlobalHighlights": false,
+      "id": 11057356,
+      "bestOf": 1,
+      "eventType": "best_of",
+      "startTimestamp": 1676235600,
+      "slug": "fusion-fluxo",
+      "finalResultOnly": false
+    },
+    {
+      "tournament": {
+        "name": "IEM Playoffs",
+        "slug": "iem-playoffs",
+        "category": {
+          "name": "CS:GO",
+          "slug": "csgo",
+          "sport": {
+            "name": "E-sports",
+            "slug": "esports",
+            "id": 72
+          },
+          "id": 1572,
+          "flag": "csgo"
+        },
+        "uniqueTournament": {
+          "name": "IEM",
+          "slug": "iem",
+          "category": {
+            "name": "CS:GO",
+            "slug": "csgo",
+            "sport": {
+              "name": "E-sports",
+              "slug": "esports",
+              "id": 72
+            },
+            "id": 1572,
+            "flag": "csgo"
+          },
+          "userCount": 0,
+          "hasPerformanceGraphFeature": false,
+          "id": 16163,
+          "hasEventPlayerStatistics": false,
+          "displayInverseHomeAwayTeams": false
+        },
+        "priority": 0,
+        "id": 89666
+      },
+      "customId": "JUVcsNeWc",
+      "status": {
+        "code": 0,
+        "description": "Not started",
+        "type": "notstarted"
+      },
+      "homeTeam": {
+        "name": "INTZ",
+        "slug": "intz",
+        "shortName": "INTZ",
+        "sport": {
+          "name": "E-sports",
+          "slug": "esports",
+          "id": 72
+        },
+        "userCount": 0,
+        "type": 0,
+        "id": 365238,
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#52b030",
+          "secondary": "#52b030",
+          "text": "#ffffff"
+        }
+      },
+      "awayTeam": {
+        "name": "Paquetá",
+        "slug": "paqueta",
+        "shortName": "Paquetá",
+        "sport": {
+          "name": "E-sports",
+          "slug": "esports",
+          "id": 72
+        },
+        "userCount": 0,
+        "type": 0,
+        "id": 364734,
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#52b030",
+          "secondary": "#52b030",
+          "text": "#ffffff"
+        }
+      },
+      "homeScore": {},
+      "awayScore": {},
+      "coverage": 91,
+      "time": {},
+      "changes": {
+        "changeTimestamp": 0
+      },
+      "hasGlobalHighlights": false,
+      "id": 11057354,
+      "bestOf": 1,
+      "eventType": "best_of",
+      "startTimestamp": 1676235600,
+      "slug": "intz-paqueta",
+      "finalResultOnly": false
+    },
+    {
+      "tournament": {
+        "name": "IEM Playoffs",
+        "slug": "iem-playoffs",
+        "category": {
+          "name": "CS:GO",
+          "slug": "csgo",
+          "sport": {
+            "name": "E-sports",
+            "slug": "esports",
+            "id": 72
+          },
+          "id": 1572,
+          "flag": "csgo"
+        },
+        "uniqueTournament": {
+          "name": "IEM",
+          "slug": "iem",
+          "category": {
+            "name": "CS:GO",
+            "slug": "csgo",
+            "sport": {
+              "name": "E-sports",
+              "slug": "esports",
+              "id": 72
+            },
+            "id": 1572,
+            "flag": "csgo"
+          },
+          "userCount": 0,
+          "hasPerformanceGraphFeature": false,
+          "id": 16163,
+          "hasEventPlayerStatistics": false,
+          "displayInverseHomeAwayTeams": false
+        },
+        "priority": 0,
+        "id": 89666
+      },
+      "customId": "arWcsvptd",
+      "status": {
+        "code": 0,
+        "description": "Not started",
+        "type": "notstarted"
+      },
+      "homeTeam": {
+        "name": "ODDIK",
+        "slug": "oddik",
+        "shortName": "ODDIK",
+        "sport": {
+          "name": "E-sports",
+          "slug": "esports",
+          "id": 72
+        },
+        "userCount": 0,
+        "type": 0,
+        "id": 420770,
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#52b030",
+          "secondary": "#52b030",
+          "text": "#ffffff"
+        }
+      },
+      "awayTeam": {
+        "name": "Imperial",
+        "slug": "imperial",
+        "shortName": "Imperial",
+        "sport": {
+          "name": "E-sports",
+          "slug": "esports",
+          "id": 72
+        },
+        "userCount": 0,
+        "type": 0,
+        "id": 365850,
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#52b030",
+          "secondary": "#52b030",
+          "text": "#ffffff"
+        }
+      },
+      "homeScore": {},
+      "awayScore": {},
+      "coverage": 91,
+      "time": {},
+      "changes": {
+        "changeTimestamp": 0
+      },
+      "hasGlobalHighlights": false,
+      "id": 11057353,
+      "bestOf": 1,
+      "eventType": "best_of",
+      "startTimestamp": 1676235600,
+      "slug": "oddik-imperial",
+      "finalResultOnly": false
+    },
+    {
+      "tournament": {
+        "name": "IEM Playoffs",
+        "slug": "iem-playoffs",
+        "category": {
+          "name": "CS:GO",
+          "slug": "csgo",
+          "sport": {
+            "name": "E-sports",
+            "slug": "esports",
+            "id": 72
+          },
+          "id": 1572,
+          "flag": "csgo"
+        },
+        "uniqueTournament": {
+          "name": "IEM",
+          "slug": "iem",
+          "category": {
+            "name": "CS:GO",
+            "slug": "csgo",
+            "sport": {
+              "name": "E-sports",
+              "slug": "esports",
+              "id": 72
+            },
+            "id": 1572,
+            "flag": "csgo"
+          },
+          "userCount": 0,
+          "hasPerformanceGraphFeature": false,
+          "id": 16163,
+          "hasEventPlayerStatistics": false,
+          "displayInverseHomeAwayTeams": false
+        },
+        "priority": 0,
+        "id": 89666
+      },
+      "customId": "ZJVcsQAKd",
+      "status": {
+        "code": 0,
+        "description": "Not started",
+        "type": "notstarted"
+      },
+      "homeTeam": {
+        "name": "Evil Geniuses",
+        "slug": "evil-geniuses",
+        "shortName": "Evil Geniuses",
+        "sport": {
+          "name": "E-sports",
+          "slug": "esports",
+          "id": 72
+        },
+        "userCount": 0,
+        "type": 0,
+        "id": 364249,
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#52b030",
+          "secondary": "#52b030",
+          "text": "#ffffff"
+        }
+      },
+      "awayTeam": {
+        "name": "Demon Time",
+        "slug": "demon-time",
+        "shortName": "Demon Time",
+        "sport": {
+          "name": "E-sports",
+          "slug": "esports",
+          "id": 72
+        },
+        "userCount": 0,
+        "type": 0,
+        "id": 463791,
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#52b030",
+          "secondary": "#52b030",
+          "text": "#ffffff"
+        }
+      },
+      "homeScore": {},
+      "awayScore": {},
+      "coverage": 91,
+      "time": {},
+      "changes": {
+        "changeTimestamp": 0
+      },
+      "hasGlobalHighlights": false,
+      "id": 11057350,
+      "bestOf": 1,
+      "eventType": "best_of",
+      "startTimestamp": 1676242800,
+      "slug": "demon-time-evil-geniuses",
+      "finalResultOnly": false
+    },
+    {
+      "tournament": {
+        "name": "IEM Playoffs",
+        "slug": "iem-playoffs",
+        "category": {
+          "name": "CS:GO",
+          "slug": "csgo",
+          "sport": {
+            "name": "E-sports",
+            "slug": "esports",
+            "id": 72
+          },
+          "id": 1572,
+          "flag": "csgo"
+        },
+        "uniqueTournament": {
+          "name": "IEM",
+          "slug": "iem",
+          "category": {
+            "name": "CS:GO",
+            "slug": "csgo",
+            "sport": {
+              "name": "E-sports",
+              "slug": "esports",
+              "id": 72
+            },
+            "id": 1572,
+            "flag": "csgo"
+          },
+          "userCount": 0,
+          "hasPerformanceGraphFeature": false,
+          "id": 16163,
+          "hasEventPlayerStatistics": false,
+          "displayInverseHomeAwayTeams": false
+        },
+        "priority": 0,
+        "id": 89666
+      },
+      "customId": "NFWcsnYed",
+      "status": {
+        "code": 0,
+        "description": "Not started",
+        "type": "notstarted"
+      },
+      "homeTeam": {
+        "name": "MIBR",
+        "slug": "mibr",
+        "shortName": "MIBR",
+        "sport": {
+          "name": "E-sports",
+          "slug": "esports",
+          "id": 72
+        },
+        "userCount": 0,
+        "type": 0,
+        "id": 366538,
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#52b030",
+          "secondary": "#52b030",
+          "text": "#ffffff"
+        }
+      },
+      "awayTeam": {
+        "name": "Mad Kings Esports",
+        "slug": "mad-kings-esports",
+        "shortName": "Mad Kings Esports",
+        "sport": {
+          "name": "E-sports",
+          "slug": "esports",
+          "id": 72
+        },
+        "userCount": 0,
+        "type": 0,
+        "id": 387413,
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#52b030",
+          "secondary": "#52b030",
+          "text": "#ffffff"
+        }
+      },
+      "homeScore": {},
+      "awayScore": {},
+      "coverage": 91,
+      "time": {},
+      "changes": {
+        "changeTimestamp": 0
+      },
+      "hasGlobalHighlights": false,
+      "id": 11057352,
+      "bestOf": 1,
+      "eventType": "best_of",
+      "startTimestamp": 1676242800,
+      "slug": "mad-kings-esports-mibr",
+      "finalResultOnly": false
+    },
+    {
+      "tournament": {
+        "name": "IEM Playoffs",
+        "slug": "iem-playoffs",
+        "category": {
+          "name": "CS:GO",
+          "slug": "csgo",
+          "sport": {
+            "name": "E-sports",
+            "slug": "esports",
+            "id": 72
+          },
+          "id": 1572,
+          "flag": "csgo"
+        },
+        "uniqueTournament": {
+          "name": "IEM",
+          "slug": "iem",
+          "category": {
+            "name": "CS:GO",
+            "slug": "csgo",
+            "sport": {
+              "name": "E-sports",
+              "slug": "esports",
+              "id": 72
+            },
+            "id": 1572,
+            "flag": "csgo"
+          },
+          "userCount": 0,
+          "hasPerformanceGraphFeature": false,
+          "id": 16163,
+          "hasEventPlayerStatistics": false,
+          "displayInverseHomeAwayTeams": false
+        },
+        "priority": 0,
+        "id": 89666
+      },
+      "customId": "UJVcsPAKd",
+      "status": {
+        "code": 0,
+        "description": "Not started",
+        "type": "notstarted"
+      },
+      "homeTeam": {
+        "name": "Mythic",
+        "slug": "mythic",
+        "shortName": "Mythic",
+        "sport": {
+          "name": "E-sports",
+          "slug": "esports",
+          "id": 72
+        },
+        "userCount": 0,
+        "type": 0,
+        "id": 364244,
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#52b030",
+          "secondary": "#52b030",
+          "text": "#ffffff"
+        }
+      },
+      "awayTeam": {
+        "name": "Infamous Esports",
+        "slug": "infamous-esports",
+        "shortName": "Infamous Esports",
+        "sport": {
+          "name": "E-sports",
+          "slug": "esports",
+          "id": 72
+        },
+        "userCount": 0,
+        "type": 0,
+        "id": 463790,
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#52b030",
+          "secondary": "#52b030",
+          "text": "#ffffff"
+        }
+      },
+      "homeScore": {},
+      "awayScore": {},
+      "coverage": 91,
+      "time": {},
+      "changes": {
+        "changeTimestamp": 0
+      },
+      "hasGlobalHighlights": false,
+      "id": 11057351,
+      "bestOf": 1,
+      "eventType": "best_of",
+      "startTimestamp": 1676242800,
+      "slug": "infamous-esports-mythic",
+      "finalResultOnly": false
+    },
+    {
+      "tournament": {
+        "name": "IEM Playoffs",
+        "slug": "iem-playoffs",
+        "category": {
+          "name": "CS:GO",
+          "slug": "csgo",
+          "sport": {
+            "name": "E-sports",
+            "slug": "esports",
+            "id": 72
+          },
+          "id": 1572,
+          "flag": "csgo"
+        },
+        "uniqueTournament": {
+          "name": "IEM",
+          "slug": "iem",
+          "category": {
+            "name": "CS:GO",
+            "slug": "csgo",
+            "sport": {
+              "name": "E-sports",
+              "slug": "esports",
+              "id": 72
+            },
+            "id": 1572,
+            "flag": "csgo"
+          },
+          "userCount": 0,
+          "hasPerformanceGraphFeature": false,
+          "id": 16163,
+          "hasEventPlayerStatistics": false,
+          "displayInverseHomeAwayTeams": false
+        },
+        "priority": 0,
+        "id": 89666
+      },
+      "customId": "eDVcsUIed",
+      "status": {
+        "code": 0,
+        "description": "Not started",
+        "type": "notstarted"
+      },
+      "homeTeam": {
+        "name": "Team Villainous",
+        "slug": "team-villainous",
+        "shortName": "Team Villainous",
+        "sport": {
+          "name": "E-sports",
+          "slug": "esports",
+          "id": 72
+        },
+        "userCount": 0,
+        "type": 0,
+        "id": 386694,
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#52b030",
+          "secondary": "#52b030",
+          "text": "#ffffff"
+        }
+      },
+      "awayTeam": {
+        "name": "ATK",
+        "slug": "atk",
+        "shortName": "ATK",
+        "sport": {
+          "name": "E-sports",
+          "slug": "esports",
+          "id": 72
+        },
+        "userCount": 0,
+        "type": 0,
+        "id": 363904,
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#52b030",
+          "secondary": "#52b030",
+          "text": "#ffffff"
+        }
+      },
+      "homeScore": {},
+      "awayScore": {},
+      "coverage": 91,
+      "time": {},
+      "changes": {
+        "changeTimestamp": 0
+      },
+      "hasGlobalHighlights": false,
+      "id": 11057349,
+      "bestOf": 1,
+      "eventType": "best_of",
+      "startTimestamp": 1676242800,
+      "slug": "team-villainous-atk",
+      "finalResultOnly": false
+    },
+    {
+      "tournament": {
         "name": "Elisa Invitational Main Stage",
         "slug": "elisa-invitational-main-stage",
         "category": {
@@ -634,6 +1410,879 @@
     },
     {
       "tournament": {
+        "name": "ESEA Regular season",
+        "slug": "esea-regular-season",
+        "category": {
+          "name": "CS:GO",
+          "slug": "csgo",
+          "sport": {
+            "name": "E-sports",
+            "slug": "esports",
+            "id": 72
+          },
+          "id": 1572,
+          "flag": "csgo"
+        },
+        "uniqueTournament": {
+          "name": "ESEA",
+          "slug": "esea",
+          "category": {
+            "name": "CS:GO",
+            "slug": "csgo",
+            "sport": {
+              "name": "E-sports",
+              "slug": "esports",
+              "id": 72
+            },
+            "id": 1572,
+            "flag": "csgo"
+          },
+          "userCount": 0,
+          "hasPerformanceGraphFeature": false,
+          "id": 16151,
+          "hasEventPlayerStatistics": false,
+          "displayInverseHomeAwayTeams": false
+        },
+        "priority": 0,
+        "id": 91074
+      },
+      "customId": "lGtdsUFId",
+      "status": {
+        "code": 0,
+        "description": "Not started",
+        "type": "notstarted"
+      },
+      "homeTeam": {
+        "name": "Team Scythe",
+        "slug": "team-scythe",
+        "shortName": "Team Scythe",
+        "sport": {
+          "name": "E-sports",
+          "slug": "esports",
+          "id": 72
+        },
+        "userCount": 0,
+        "type": 0,
+        "id": 459044,
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#52b030",
+          "secondary": "#52b030",
+          "text": "#ffffff"
+        }
+      },
+      "awayTeam": {
+        "name": "flowstate",
+        "slug": "flowstate",
+        "shortName": "flowstate",
+        "sport": {
+          "name": "E-sports",
+          "slug": "esports",
+          "id": 72
+        },
+        "userCount": 0,
+        "type": 0,
+        "id": 421561,
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#52b030",
+          "secondary": "#52b030",
+          "text": "#ffffff"
+        }
+      },
+      "homeScore": {},
+      "awayScore": {},
+      "coverage": 90,
+      "time": {},
+      "changes": {
+        "changeTimestamp": 0
+      },
+      "hasGlobalHighlights": false,
+      "id": 11057366,
+      "bestOf": 1,
+      "eventType": "best_of",
+      "startTimestamp": 1676214000,
+      "slug": "team-scythe-flowstate",
+      "finalResultOnly": false
+    },
+    {
+      "tournament": {
+        "name": "ESEA Regular season",
+        "slug": "esea-regular-season",
+        "category": {
+          "name": "CS:GO",
+          "slug": "csgo",
+          "sport": {
+            "name": "E-sports",
+            "slug": "esports",
+            "id": 72
+          },
+          "id": 1572,
+          "flag": "csgo"
+        },
+        "uniqueTournament": {
+          "name": "ESEA",
+          "slug": "esea",
+          "category": {
+            "name": "CS:GO",
+            "slug": "csgo",
+            "sport": {
+              "name": "E-sports",
+              "slug": "esports",
+              "id": 72
+            },
+            "id": 1572,
+            "flag": "csgo"
+          },
+          "userCount": 0,
+          "hasPerformanceGraphFeature": false,
+          "id": 16151,
+          "hasEventPlayerStatistics": false,
+          "displayInverseHomeAwayTeams": false
+        },
+        "priority": 0,
+        "id": 91074
+      },
+      "customId": "nBYcsinnd",
+      "status": {
+        "code": 0,
+        "description": "Not started",
+        "type": "notstarted"
+      },
+      "homeTeam": {
+        "name": "Saints",
+        "slug": "saints",
+        "shortName": "Saints",
+        "sport": {
+          "name": "E-sports",
+          "slug": "esports",
+          "id": 72
+        },
+        "userCount": 0,
+        "type": 0,
+        "id": 371313,
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#52b030",
+          "secondary": "#52b030",
+          "text": "#ffffff"
+        }
+      },
+      "awayTeam": {
+        "name": "ARCRED",
+        "slug": "arcred",
+        "shortName": "ARCRED",
+        "sport": {
+          "name": "E-sports",
+          "slug": "esports",
+          "id": 72
+        },
+        "userCount": 0,
+        "type": 0,
+        "id": 408158,
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#52b030",
+          "secondary": "#52b030",
+          "text": "#ffffff"
+        }
+      },
+      "homeScore": {},
+      "awayScore": {},
+      "coverage": 90,
+      "time": {},
+      "changes": {
+        "changeTimestamp": 0
+      },
+      "hasGlobalHighlights": false,
+      "id": 11057368,
+      "bestOf": 1,
+      "eventType": "best_of",
+      "startTimestamp": 1676217600,
+      "slug": "arcred-saints",
+      "finalResultOnly": false
+    },
+    {
+      "tournament": {
+        "name": "ESEA Regular season",
+        "slug": "esea-regular-season",
+        "category": {
+          "name": "CS:GO",
+          "slug": "csgo",
+          "sport": {
+            "name": "E-sports",
+            "slug": "esports",
+            "id": 72
+          },
+          "id": 1572,
+          "flag": "csgo"
+        },
+        "uniqueTournament": {
+          "name": "ESEA",
+          "slug": "esea",
+          "category": {
+            "name": "CS:GO",
+            "slug": "csgo",
+            "sport": {
+              "name": "E-sports",
+              "slug": "esports",
+              "id": 72
+            },
+            "id": 1572,
+            "flag": "csgo"
+          },
+          "userCount": 0,
+          "hasPerformanceGraphFeature": false,
+          "id": 16151,
+          "hasEventPlayerStatistics": false,
+          "displayInverseHomeAwayTeams": false
+        },
+        "priority": 0,
+        "id": 91074
+      },
+      "customId": "yFVcsjRfd",
+      "status": {
+        "code": 0,
+        "description": "Not started",
+        "type": "notstarted"
+      },
+      "homeTeam": {
+        "name": "allStars Gaming",
+        "slug": "allstars-gaming",
+        "shortName": "allStars Gaming",
+        "sport": {
+          "name": "E-sports",
+          "slug": "esports",
+          "id": 72
+        },
+        "userCount": 0,
+        "type": 0,
+        "id": 389609,
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#52b030",
+          "secondary": "#52b030",
+          "text": "#ffffff"
+        }
+      },
+      "awayTeam": {
+        "name": "Nemiga",
+        "slug": "nemiga",
+        "shortName": "Nemiga",
+        "sport": {
+          "name": "E-sports",
+          "slug": "esports",
+          "id": 72
+        },
+        "userCount": 0,
+        "type": 0,
+        "id": 364023,
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#52b030",
+          "secondary": "#52b030",
+          "text": "#ffffff"
+        }
+      },
+      "homeScore": {},
+      "awayScore": {},
+      "coverage": 90,
+      "time": {},
+      "changes": {
+        "changeTimestamp": 0
+      },
+      "hasGlobalHighlights": false,
+      "id": 11057369,
+      "bestOf": 1,
+      "eventType": "best_of",
+      "startTimestamp": 1676217600,
+      "slug": "allstars-gaming-nemiga",
+      "finalResultOnly": false
+    },
+    {
+      "tournament": {
+        "name": "ESEA Regular season",
+        "slug": "esea-regular-season",
+        "category": {
+          "name": "CS:GO",
+          "slug": "csgo",
+          "sport": {
+            "name": "E-sports",
+            "slug": "esports",
+            "id": 72
+          },
+          "id": 1572,
+          "flag": "csgo"
+        },
+        "uniqueTournament": {
+          "name": "ESEA",
+          "slug": "esea",
+          "category": {
+            "name": "CS:GO",
+            "slug": "csgo",
+            "sport": {
+              "name": "E-sports",
+              "slug": "esports",
+              "id": 72
+            },
+            "id": 1572,
+            "flag": "csgo"
+          },
+          "userCount": 0,
+          "hasPerformanceGraphFeature": false,
+          "id": 16151,
+          "hasEventPlayerStatistics": false,
+          "displayInverseHomeAwayTeams": false
+        },
+        "priority": 0,
+        "id": 91074
+      },
+      "customId": "lNVcsgjJd",
+      "status": {
+        "code": 0,
+        "description": "Not started",
+        "type": "notstarted"
+      },
+      "homeTeam": {
+        "name": "Invictus Int",
+        "slug": "invictus-int",
+        "shortName": "Invictus Int",
+        "sport": {
+          "name": "E-sports",
+          "slug": "esports",
+          "id": 72
+        },
+        "userCount": 0,
+        "type": 0,
+        "id": 364411,
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#52b030",
+          "secondary": "#52b030",
+          "text": "#ffffff"
+        }
+      },
+      "awayTeam": {
+        "name": "Rapid Ninjas",
+        "slug": "rapid-ninjas",
+        "shortName": "Rapid Ninjas",
+        "sport": {
+          "name": "E-sports",
+          "slug": "esports",
+          "id": 72
+        },
+        "userCount": 0,
+        "type": 0,
+        "id": 460456,
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#52b030",
+          "secondary": "#52b030",
+          "text": "#ffffff"
+        }
+      },
+      "homeScore": {},
+      "awayScore": {},
+      "coverage": 90,
+      "time": {},
+      "changes": {
+        "changeTimestamp": 0
+      },
+      "hasGlobalHighlights": false,
+      "id": 11057367,
+      "bestOf": 1,
+      "eventType": "best_of",
+      "startTimestamp": 1676221200,
+      "slug": "rapid-ninjas-invictus-int",
+      "finalResultOnly": false
+    },
+    {
+      "tournament": {
+        "name": "ESEA Regular season",
+        "slug": "esea-regular-season",
+        "category": {
+          "name": "CS:GO",
+          "slug": "csgo",
+          "sport": {
+            "name": "E-sports",
+            "slug": "esports",
+            "id": 72
+          },
+          "id": 1572,
+          "flag": "csgo"
+        },
+        "uniqueTournament": {
+          "name": "ESEA",
+          "slug": "esea",
+          "category": {
+            "name": "CS:GO",
+            "slug": "csgo",
+            "sport": {
+              "name": "E-sports",
+              "slug": "esports",
+              "id": 72
+            },
+            "id": 1572,
+            "flag": "csgo"
+          },
+          "userCount": 0,
+          "hasPerformanceGraphFeature": false,
+          "id": 16151,
+          "hasEventPlayerStatistics": false,
+          "displayInverseHomeAwayTeams": false
+        },
+        "priority": 0,
+        "id": 91074
+      },
+      "customId": "BMVcsnLjd",
+      "status": {
+        "code": 0,
+        "description": "Not started",
+        "type": "notstarted"
+      },
+      "homeTeam": {
+        "name": "LeoGaming",
+        "slug": "leogaming",
+        "shortName": "LeoGaming",
+        "sport": {
+          "name": "E-sports",
+          "slug": "esports",
+          "id": 72
+        },
+        "userCount": 0,
+        "type": 0,
+        "id": 399313,
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#52b030",
+          "secondary": "#52b030",
+          "text": "#ffffff"
+        }
+      },
+      "awayTeam": {
+        "name": "Singularity",
+        "slug": "singularity",
+        "shortName": "Singularity",
+        "sport": {
+          "name": "E-sports",
+          "slug": "esports",
+          "id": 72
+        },
+        "userCount": 0,
+        "type": 0,
+        "id": 364376,
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#52b030",
+          "secondary": "#52b030",
+          "text": "#ffffff"
+        }
+      },
+      "homeScore": {},
+      "awayScore": {},
+      "coverage": 90,
+      "time": {},
+      "changes": {
+        "changeTimestamp": 0
+      },
+      "hasGlobalHighlights": false,
+      "id": 11057373,
+      "bestOf": 1,
+      "eventType": "best_of",
+      "startTimestamp": 1676224800,
+      "slug": "leogaming-singularity",
+      "finalResultOnly": false
+    },
+    {
+      "tournament": {
+        "name": "ESEA Regular season",
+        "slug": "esea-regular-season",
+        "category": {
+          "name": "CS:GO",
+          "slug": "csgo",
+          "sport": {
+            "name": "E-sports",
+            "slug": "esports",
+            "id": 72
+          },
+          "id": 1572,
+          "flag": "csgo"
+        },
+        "uniqueTournament": {
+          "name": "ESEA",
+          "slug": "esea",
+          "category": {
+            "name": "CS:GO",
+            "slug": "csgo",
+            "sport": {
+              "name": "E-sports",
+              "slug": "esports",
+              "id": 72
+            },
+            "id": 1572,
+            "flag": "csgo"
+          },
+          "userCount": 0,
+          "hasPerformanceGraphFeature": false,
+          "id": 16151,
+          "hasEventPlayerStatistics": false,
+          "displayInverseHomeAwayTeams": false
+        },
+        "priority": 0,
+        "id": 91074
+      },
+      "customId": "nBYcstXEd",
+      "status": {
+        "code": 0,
+        "description": "Not started",
+        "type": "notstarted"
+      },
+      "homeTeam": {
+        "name": "The Witchers",
+        "slug": "the-witchers",
+        "shortName": "The Witchers",
+        "sport": {
+          "name": "E-sports",
+          "slug": "esports",
+          "id": 72
+        },
+        "userCount": 0,
+        "type": 0,
+        "id": 449868,
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#52b030",
+          "secondary": "#52b030",
+          "text": "#ffffff"
+        }
+      },
+      "awayTeam": {
+        "name": "Saints",
+        "slug": "saints",
+        "shortName": "Saints",
+        "sport": {
+          "name": "E-sports",
+          "slug": "esports",
+          "id": 72
+        },
+        "userCount": 0,
+        "type": 0,
+        "id": 371313,
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#52b030",
+          "secondary": "#52b030",
+          "text": "#ffffff"
+        }
+      },
+      "homeScore": {},
+      "awayScore": {},
+      "coverage": 90,
+      "time": {},
+      "changes": {
+        "changeTimestamp": 0
+      },
+      "hasGlobalHighlights": false,
+      "id": 11057371,
+      "bestOf": 1,
+      "eventType": "best_of",
+      "startTimestamp": 1676224800,
+      "slug": "the-witchers-saints",
+      "finalResultOnly": false
+    },
+    {
+      "tournament": {
+        "name": "ESEA Regular season",
+        "slug": "esea-regular-season",
+        "category": {
+          "name": "CS:GO",
+          "slug": "csgo",
+          "sport": {
+            "name": "E-sports",
+            "slug": "esports",
+            "id": 72
+          },
+          "id": 1572,
+          "flag": "csgo"
+        },
+        "uniqueTournament": {
+          "name": "ESEA",
+          "slug": "esea",
+          "category": {
+            "name": "CS:GO",
+            "slug": "csgo",
+            "sport": {
+              "name": "E-sports",
+              "slug": "esports",
+              "id": 72
+            },
+            "id": 1572,
+            "flag": "csgo"
+          },
+          "userCount": 0,
+          "hasPerformanceGraphFeature": false,
+          "id": 16151,
+          "hasEventPlayerStatistics": false,
+          "displayInverseHomeAwayTeams": false
+        },
+        "priority": 0,
+        "id": 91074
+      },
+      "customId": "lGtdsGqKd",
+      "status": {
+        "code": 0,
+        "description": "Not started",
+        "type": "notstarted"
+      },
+      "homeTeam": {
+        "name": "flowstate",
+        "slug": "flowstate",
+        "shortName": "flowstate",
+        "sport": {
+          "name": "E-sports",
+          "slug": "esports",
+          "id": 72
+        },
+        "userCount": 0,
+        "type": 0,
+        "id": 421561,
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#52b030",
+          "secondary": "#52b030",
+          "text": "#ffffff"
+        }
+      },
+      "awayTeam": {
+        "name": "sunset",
+        "slug": "sunset",
+        "shortName": "sunset",
+        "sport": {
+          "name": "E-sports",
+          "slug": "esports",
+          "id": 72
+        },
+        "userCount": 0,
+        "type": 0,
+        "id": 463331,
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#52b030",
+          "secondary": "#52b030",
+          "text": "#ffffff"
+        }
+      },
+      "homeScore": {},
+      "awayScore": {},
+      "coverage": 90,
+      "time": {},
+      "changes": {
+        "changeTimestamp": 0
+      },
+      "hasGlobalHighlights": false,
+      "id": 11057372,
+      "bestOf": 1,
+      "eventType": "best_of",
+      "startTimestamp": 1676224800,
+      "slug": "sunset-flowstate",
+      "finalResultOnly": false
+    },
+    {
+      "tournament": {
+        "name": "ESEA Regular season",
+        "slug": "esea-regular-season",
+        "category": {
+          "name": "CS:GO",
+          "slug": "csgo",
+          "sport": {
+            "name": "E-sports",
+            "slug": "esports",
+            "id": 72
+          },
+          "id": 1572,
+          "flag": "csgo"
+        },
+        "uniqueTournament": {
+          "name": "ESEA",
+          "slug": "esea",
+          "category": {
+            "name": "CS:GO",
+            "slug": "csgo",
+            "sport": {
+              "name": "E-sports",
+              "slug": "esports",
+              "id": 72
+            },
+            "id": 1572,
+            "flag": "csgo"
+          },
+          "userCount": 0,
+          "hasPerformanceGraphFeature": false,
+          "id": 16151,
+          "hasEventPlayerStatistics": false,
+          "displayInverseHomeAwayTeams": false
+        },
+        "priority": 0,
+        "id": 91074
+      },
+      "customId": "gUudsNZFd",
+      "status": {
+        "code": 0,
+        "description": "Not started",
+        "type": "notstarted"
+      },
+      "homeTeam": {
+        "name": "IKLA",
+        "slug": "ikla",
+        "shortName": "IKLA",
+        "sport": {
+          "name": "E-sports",
+          "slug": "esports",
+          "id": 72
+        },
+        "userCount": 0,
+        "type": 0,
+        "id": 452488,
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#52b030",
+          "secondary": "#52b030",
+          "text": "#ffffff"
+        }
+      },
+      "awayTeam": {
+        "name": "Pepsilon",
+        "slug": "pepsilon",
+        "shortName": "Pepsilon",
+        "sport": {
+          "name": "E-sports",
+          "slug": "esports",
+          "id": 72
+        },
+        "userCount": 0,
+        "type": 0,
+        "id": 424706,
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#52b030",
+          "secondary": "#52b030",
+          "text": "#ffffff"
+        }
+      },
+      "homeScore": {},
+      "awayScore": {},
+      "coverage": 90,
+      "time": {},
+      "changes": {
+        "changeTimestamp": 0
+      },
+      "hasGlobalHighlights": false,
+      "id": 11057370,
+      "bestOf": 1,
+      "eventType": "best_of",
+      "startTimestamp": 1676228400,
+      "slug": "ikla-pepsilon",
+      "finalResultOnly": false
+    },
+    {
+      "tournament": {
+        "name": "ESEA Regular season",
+        "slug": "esea-regular-season",
+        "category": {
+          "name": "CS:GO",
+          "slug": "csgo",
+          "sport": {
+            "name": "E-sports",
+            "slug": "esports",
+            "id": 72
+          },
+          "id": 1572,
+          "flag": "csgo"
+        },
+        "uniqueTournament": {
+          "name": "ESEA",
+          "slug": "esea",
+          "category": {
+            "name": "CS:GO",
+            "slug": "csgo",
+            "sport": {
+              "name": "E-sports",
+              "slug": "esports",
+              "id": 72
+            },
+            "id": 1572,
+            "flag": "csgo"
+          },
+          "userCount": 0,
+          "hasPerformanceGraphFeature": false,
+          "id": 16151,
+          "hasEventPlayerStatistics": false,
+          "displayInverseHomeAwayTeams": false
+        },
+        "priority": 0,
+        "id": 91074
+      },
+      "customId": "FMVcsGqKd",
+      "status": {
+        "code": 0,
+        "description": "Not started",
+        "type": "notstarted"
+      },
+      "homeTeam": {
+        "name": "sunset",
+        "slug": "sunset",
+        "shortName": "sunset",
+        "sport": {
+          "name": "E-sports",
+          "slug": "esports",
+          "id": 72
+        },
+        "userCount": 0,
+        "type": 0,
+        "id": 463331,
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#52b030",
+          "secondary": "#52b030",
+          "text": "#ffffff"
+        }
+      },
+      "awayTeam": {
+        "name": "HONORIS",
+        "slug": "honoris",
+        "shortName": "HONORIS",
+        "sport": {
+          "name": "E-sports",
+          "slug": "esports",
+          "id": 72
+        },
+        "userCount": 0,
+        "type": 0,
+        "id": 364380,
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#52b030",
+          "secondary": "#52b030",
+          "text": "#ffffff"
+        }
+      },
+      "homeScore": {},
+      "awayScore": {},
+      "coverage": 90,
+      "time": {},
+      "changes": {
+        "changeTimestamp": 0
+      },
+      "hasGlobalHighlights": false,
+      "id": 11057374,
+      "bestOf": 1,
+      "eventType": "best_of",
+      "startTimestamp": 1676232000,
+      "slug": "sunset-honoris",
+      "finalResultOnly": false
+    },
+    {
+      "tournament": {
         "name": "European Development Championship Playoffs",
         "slug": "european-development-championship-playoffs",
         "category": {
@@ -672,10 +2321,11 @@
       },
       "customId": "jMZcsoZld",
       "status": {
-        "code": 0,
-        "description": "Not started",
-        "type": "notstarted"
+        "code": 30,
+        "description": "Pause",
+        "type": "inprogress"
       },
+      "winnerCode": 3,
       "homeTeam": {
         "name": "Eternal Fire Academy",
         "slug": "eternal-fire-academy",
@@ -714,17 +2364,31 @@
           "text": "#ffffff"
         }
       },
-      "homeScore": {},
-      "awayScore": {},
+      "homeScore": {
+        "current": 1,
+        "display": 1,
+        "period1": 1,
+        "period2": 0
+      },
+      "awayScore": {
+        "current": 1,
+        "display": 1,
+        "period1": 0,
+        "period2": 1
+      },
       "coverage": 91,
       "time": {},
       "changes": {
         "changes": [
+          "awayScore.display",
           "status.code",
           "status.description",
-          "status.type"
+          "homeScore.period2",
+          "awayScore.current",
+          "awayScore.period2",
+          "time.currentPeriodStart"
         ],
-        "changeTimestamp": 1675969147
+        "changeTimestamp": 1676207224
       },
       "hasGlobalHighlights": true,
       "id": 11040315,
@@ -1950,10 +3614,11 @@
       },
       "customId": "cLpdsnAEd",
       "status": {
-        "code": 0,
-        "description": "Not started",
-        "type": "notstarted"
+        "code": 100,
+        "description": "Ended",
+        "type": "finished"
       },
+      "winnerCode": 1,
       "homeTeam": {
         "name": "NAVI Javelins",
         "slug": "navi-javelins",
@@ -1992,12 +3657,32 @@
           "text": "#ffffff"
         }
       },
-      "homeScore": {},
-      "awayScore": {},
+      "homeScore": {
+        "current": 2,
+        "display": 2,
+        "period1": 1,
+        "period2": 1
+      },
+      "awayScore": {
+        "current": 0,
+        "display": 0,
+        "period1": 0,
+        "period2": 0
+      },
       "coverage": 91,
       "time": {},
       "changes": {
-        "changeTimestamp": 0
+        "changes": [
+          "status.code",
+          "status.description",
+          "status.type",
+          "homeScore.current",
+          "homeScore.display",
+          "homeScore.period2",
+          "awayScore.period2",
+          "time.currentPeriodStart"
+        ],
+        "changeTimestamp": 1676201223
       },
       "hasGlobalHighlights": true,
       "id": 11056610,
@@ -2047,10 +3732,11 @@
       },
       "customId": "EEfdsQYmd",
       "status": {
-        "code": 0,
-        "description": "Not started",
-        "type": "notstarted"
+        "code": 1002,
+        "description": "Second game",
+        "type": "inprogress"
       },
+      "winnerCode": 1,
       "homeTeam": {
         "name": "Nigma Galaxy Female",
         "slug": "nigma-galaxy-female",
@@ -2089,18 +3775,33 @@
           "text": "#ffffff"
         }
       },
-      "homeScore": {},
-      "awayScore": {},
+      "homeScore": {
+        "current": 1,
+        "display": 1,
+        "period1": 1
+      },
+      "awayScore": {
+        "current": 0,
+        "display": 0,
+        "period1": 0
+      },
       "coverage": 91,
-      "time": {},
+      "time": {
+        "currentPeriodStartTimestamp": 1676208028
+      },
       "changes": {
-        "changeTimestamp": 0
+        "changes": [
+          "status.code",
+          "status.description",
+          "time.currentPeriodStart"
+        ],
+        "changeTimestamp": 1676208062
       },
       "hasGlobalHighlights": true,
       "id": 11056608,
       "bestOf": 3,
       "eventType": "best_of",
-      "startTimestamp": 1676206800,
+      "startTimestamp": 1676203200,
       "slug": "nigma-galaxy-female-furia-fe",
       "finalResultOnly": false
     },
@@ -2144,10 +3845,11 @@
       },
       "customId": "lNVcsYQid",
       "status": {
-        "code": 0,
-        "description": "Not started",
-        "type": "notstarted"
+        "code": 100,
+        "description": "Ended",
+        "type": "finished"
       },
+      "winnerCode": 2,
       "homeTeam": {
         "name": "Invictus Int",
         "slug": "invictus-int",
@@ -2186,12 +3888,32 @@
           "text": "#ffffff"
         }
       },
-      "homeScore": {},
-      "awayScore": {},
-      "coverage": 90,
+      "homeScore": {
+        "current": 0,
+        "display": 0,
+        "period1": 0,
+        "period2": 0
+      },
+      "awayScore": {
+        "current": 2,
+        "display": 2,
+        "period1": 1,
+        "period2": 1
+      },
+      "coverage": 91,
       "time": {},
       "changes": {
-        "changeTimestamp": 0
+        "changes": [
+          "status.code",
+          "status.description",
+          "status.type",
+          "homeScore.period2",
+          "awayScore.current",
+          "awayScore.display",
+          "awayScore.period2",
+          "time.currentPeriodStart"
+        ],
+        "changeTimestamp": 1676199363
       },
       "hasGlobalHighlights": true,
       "id": 11053178,
@@ -2241,10 +3963,11 @@
       },
       "customId": "PBVcsTqvd",
       "status": {
-        "code": 0,
-        "description": "Not started",
-        "type": "notstarted"
+        "code": 1002,
+        "description": "Second game",
+        "type": "inprogress"
       },
+      "winnerCode": 2,
       "homeTeam": {
         "name": "Sampi",
         "slug": "sampi",
@@ -2283,18 +4006,33 @@
           "text": "#ffffff"
         }
       },
-      "homeScore": {},
-      "awayScore": {},
-      "coverage": 90,
-      "time": {},
+      "homeScore": {
+        "current": 0,
+        "display": 0,
+        "period1": 0
+      },
+      "awayScore": {
+        "current": 1,
+        "display": 1,
+        "period1": 1
+      },
+      "coverage": 91,
+      "time": {
+        "currentPeriodStartTimestamp": 1676205922
+      },
       "changes": {
-        "changeTimestamp": 0
+        "changes": [
+          "status.code",
+          "status.description",
+          "time.currentPeriodStart"
+        ],
+        "changeTimestamp": 1676205962
       },
       "hasGlobalHighlights": true,
       "id": 11050983,
       "bestOf": 3,
       "eventType": "best_of",
-      "startTimestamp": 1676201400,
+      "startTimestamp": 1676200200,
       "slug": "the-prodigies-sampi",
       "finalResultOnly": false
     },
@@ -2382,7 +4120,7 @@
       },
       "homeScore": {},
       "awayScore": {},
-      "coverage": 90,
+      "coverage": 91,
       "time": {},
       "changes": {
         "changeTimestamp": 0
@@ -2393,6 +4131,103 @@
       "eventType": "best_of",
       "startTimestamp": 1676212200,
       "slug": "viperio-krc-genk-esports",
+      "finalResultOnly": false
+    },
+    {
+      "tournament": {
+        "name": "European Pro League Playoffs",
+        "slug": "european-pro-league-playoffs",
+        "category": {
+          "name": "CS:GO",
+          "slug": "csgo",
+          "sport": {
+            "name": "E-sports",
+            "slug": "esports",
+            "id": 72
+          },
+          "id": 1572,
+          "flag": "csgo"
+        },
+        "uniqueTournament": {
+          "name": "European Pro League",
+          "slug": "european-pro-league",
+          "category": {
+            "name": "CS:GO",
+            "slug": "csgo",
+            "sport": {
+              "name": "E-sports",
+              "slug": "esports",
+              "id": 72
+            },
+            "id": 1572,
+            "flag": "csgo"
+          },
+          "userCount": 0,
+          "hasPerformanceGraphFeature": false,
+          "id": 19104,
+          "hasEventPlayerStatistics": false,
+          "displayInverseHomeAwayTeams": false
+        },
+        "priority": 0,
+        "id": 105385
+      },
+      "customId": "lNVcspcWc",
+      "status": {
+        "code": 0,
+        "description": "Not started",
+        "type": "notstarted"
+      },
+      "homeTeam": {
+        "name": "Nexus",
+        "slug": "nexus",
+        "shortName": "Nexus",
+        "sport": {
+          "name": "E-sports",
+          "slug": "esports",
+          "id": 72
+        },
+        "userCount": 0,
+        "type": 0,
+        "id": 365115,
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#52b030",
+          "secondary": "#52b030",
+          "text": "#ffffff"
+        }
+      },
+      "awayTeam": {
+        "name": "Invictus Int",
+        "slug": "invictus-int",
+        "shortName": "Invictus Int",
+        "sport": {
+          "name": "E-sports",
+          "slug": "esports",
+          "id": 72
+        },
+        "userCount": 0,
+        "type": 0,
+        "id": 364411,
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#52b030",
+          "secondary": "#52b030",
+          "text": "#ffffff"
+        }
+      },
+      "homeScore": {},
+      "awayScore": {},
+      "coverage": 91,
+      "time": {},
+      "changes": {
+        "changeTimestamp": 0
+      },
+      "hasGlobalHighlights": true,
+      "id": 11057622,
+      "bestOf": 3,
+      "eventType": "best_of",
+      "startTimestamp": 1676278800,
+      "slug": "nexus-invictus-int",
       "finalResultOnly": false
     },
     {
@@ -2985,10 +4820,11 @@
       },
       "customId": "bjJdsTYJd",
       "status": {
-        "code": 0,
-        "description": "Not started",
-        "type": "notstarted"
+        "code": 100,
+        "description": "Ended",
+        "type": "finished"
       },
+      "winnerCode": 1,
       "homeTeam": {
         "name": "undefined",
         "slug": "undefined",
@@ -3027,19 +4863,152 @@
           "text": "#ffffff"
         }
       },
-      "homeScore": {},
-      "awayScore": {},
+      "homeScore": {
+        "current": 2,
+        "display": 2,
+        "period1": 1,
+        "period2": 1
+      },
+      "awayScore": {
+        "current": 0,
+        "display": 0,
+        "period1": 0,
+        "period2": 0
+      },
       "coverage": 90,
       "time": {},
       "changes": {
-        "changeTimestamp": 0
+        "changes": [
+          "status.code",
+          "status.description",
+          "status.type",
+          "homeScore.current",
+          "homeScore.display",
+          "homeScore.period2",
+          "awayScore.period2",
+          "time.currentPeriodStart"
+        ],
+        "changeTimestamp": 1676198582
       },
-      "hasGlobalHighlights": false,
+      "hasGlobalHighlights": true,
       "id": 11056677,
       "bestOf": 3,
       "eventType": "best_of",
       "startTimestamp": 1676192400,
       "slug": "ntk-undefined",
+      "finalResultOnly": false
+    },
+    {
+      "tournament": {
+        "name": "CCT South Europe Playoffs",
+        "slug": "cct-south-europe-playoffs",
+        "category": {
+          "name": "CS:GO",
+          "slug": "csgo",
+          "sport": {
+            "name": "E-sports",
+            "slug": "esports",
+            "id": 72
+          },
+          "id": 1572,
+          "flag": "csgo"
+        },
+        "uniqueTournament": {
+          "name": "CCT South Europe",
+          "slug": "cct-south-europe",
+          "category": {
+            "name": "CS:GO",
+            "slug": "csgo",
+            "sport": {
+              "name": "E-sports",
+              "slug": "esports",
+              "id": 72
+            },
+            "id": 1572,
+            "flag": "csgo"
+          },
+          "userCount": 0,
+          "hasPerformanceGraphFeature": false,
+          "id": 19085,
+          "hasEventPlayerStatistics": false,
+          "displayInverseHomeAwayTeams": false
+        },
+        "priority": 0,
+        "id": 106789
+      },
+      "customId": "epJdsxwKd",
+      "status": {
+        "code": 1002,
+        "description": "Second game",
+        "type": "inprogress"
+      },
+      "winnerCode": 1,
+      "homeTeam": {
+        "name": "TENSTAR",
+        "slug": "tenstar",
+        "shortName": "TENSTAR",
+        "sport": {
+          "name": "E-sports",
+          "slug": "esports",
+          "id": 72
+        },
+        "userCount": 0,
+        "type": 0,
+        "id": 460754,
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#52b030",
+          "secondary": "#52b030",
+          "text": "#ffffff"
+        }
+      },
+      "awayTeam": {
+        "name": "Destructive",
+        "slug": "destructive",
+        "shortName": "Destructive",
+        "sport": {
+          "name": "E-sports",
+          "slug": "esports",
+          "id": 72
+        },
+        "userCount": 0,
+        "type": 0,
+        "id": 463572,
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#52b030",
+          "secondary": "#52b030",
+          "text": "#ffffff"
+        }
+      },
+      "homeScore": {
+        "current": 1,
+        "display": 1,
+        "period1": 1
+      },
+      "awayScore": {
+        "current": 0,
+        "display": 0,
+        "period1": 0
+      },
+      "coverage": 91,
+      "time": {
+        "currentPeriodStartTimestamp": 1676206526
+      },
+      "changes": {
+        "changes": [
+          "status.code",
+          "status.description",
+          "time.currentPeriodStart"
+        ],
+        "changeTimestamp": 1676206562
+      },
+      "hasGlobalHighlights": false,
+      "id": 11056675,
+      "bestOf": 3,
+      "eventType": "best_of",
+      "startTimestamp": 1676203200,
+      "slug": "destructive-tenstar",
       "finalResultOnly": false
     },
     {
@@ -3137,103 +5106,6 @@
       "eventType": "best_of",
       "startTimestamp": 1676214000,
       "slug": "invsn-team-juggernauts",
-      "finalResultOnly": false
-    },
-    {
-      "tournament": {
-        "name": "CCT South Europe Playoffs",
-        "slug": "cct-south-europe-playoffs",
-        "category": {
-          "name": "CS:GO",
-          "slug": "csgo",
-          "sport": {
-            "name": "E-sports",
-            "slug": "esports",
-            "id": 72
-          },
-          "id": 1572,
-          "flag": "csgo"
-        },
-        "uniqueTournament": {
-          "name": "CCT South Europe",
-          "slug": "cct-south-europe",
-          "category": {
-            "name": "CS:GO",
-            "slug": "csgo",
-            "sport": {
-              "name": "E-sports",
-              "slug": "esports",
-              "id": 72
-            },
-            "id": 1572,
-            "flag": "csgo"
-          },
-          "userCount": 0,
-          "hasPerformanceGraphFeature": false,
-          "id": 19085,
-          "hasEventPlayerStatistics": false,
-          "displayInverseHomeAwayTeams": false
-        },
-        "priority": 0,
-        "id": 106789
-      },
-      "customId": "epJdsxwKd",
-      "status": {
-        "code": 0,
-        "description": "Not started",
-        "type": "notstarted"
-      },
-      "homeTeam": {
-        "name": "TENSTAR",
-        "slug": "tenstar",
-        "shortName": "TENSTAR",
-        "sport": {
-          "name": "E-sports",
-          "slug": "esports",
-          "id": 72
-        },
-        "userCount": 0,
-        "type": 0,
-        "id": 460754,
-        "subTeams": [],
-        "teamColors": {
-          "primary": "#52b030",
-          "secondary": "#52b030",
-          "text": "#ffffff"
-        }
-      },
-      "awayTeam": {
-        "name": "Destructive",
-        "slug": "destructive",
-        "shortName": "Destructive",
-        "sport": {
-          "name": "E-sports",
-          "slug": "esports",
-          "id": 72
-        },
-        "userCount": 0,
-        "type": 0,
-        "id": 463572,
-        "subTeams": [],
-        "teamColors": {
-          "primary": "#52b030",
-          "secondary": "#52b030",
-          "text": "#ffffff"
-        }
-      },
-      "homeScore": {},
-      "awayScore": {},
-      "coverage": 90,
-      "time": {},
-      "changes": {
-        "changeTimestamp": 0
-      },
-      "hasGlobalHighlights": false,
-      "id": 11056675,
-      "bestOf": 3,
-      "eventType": "best_of",
-      "startTimestamp": 1676214000,
-      "slug": "destructive-tenstar",
       "finalResultOnly": false
     },
     {
@@ -4066,10 +5938,11 @@
       },
       "customId": "AWVcsujgd",
       "status": {
-        "code": 0,
-        "description": "Not started",
-        "type": "notstarted"
+        "code": 1001,
+        "description": "First game",
+        "type": "inprogress"
       },
+      "winnerCode": 3,
       "homeTeam": {
         "name": "FTW",
         "slug": "ftw",
@@ -4108,12 +5981,30 @@
           "text": "#ffffff"
         }
       },
-      "homeScore": {},
-      "awayScore": {},
+      "homeScore": {
+        "current": 0,
+        "display": 0
+      },
+      "awayScore": {
+        "current": 0,
+        "display": 0
+      },
       "coverage": 91,
-      "time": {},
+      "time": {
+        "currentPeriodStartTimestamp": 1676207571
+      },
       "changes": {
-        "changeTimestamp": 0
+        "changes": [
+          "homeScore.display",
+          "awayScore.display",
+          "status.code",
+          "status.description",
+          "status.type",
+          "homeScore.current",
+          "awayScore.current",
+          "time.currentPeriodStart"
+        ],
+        "changeTimestamp": 1676207585
       },
       "hasGlobalHighlights": true,
       "id": 11057287,
@@ -4357,10 +6248,11 @@
       },
       "customId": "wUVcsPwkd",
       "status": {
-        "code": 0,
-        "description": "Not started",
-        "type": "notstarted"
+        "code": 100,
+        "description": "Ended",
+        "type": "finished"
       },
+      "winnerCode": 1,
       "homeTeam": {
         "name": "Talon Esports",
         "slug": "talon-esports",
@@ -4399,12 +6291,32 @@
           "text": "#ffffff"
         }
       },
-      "homeScore": {},
-      "awayScore": {},
+      "homeScore": {
+        "current": 2,
+        "display": 2,
+        "period1": 1,
+        "period2": 1
+      },
+      "awayScore": {
+        "current": 0,
+        "display": 0,
+        "period1": 0,
+        "period2": 0
+      },
       "coverage": 91,
       "time": {},
       "changes": {
-        "changeTimestamp": 0
+        "changes": [
+          "status.code",
+          "status.description",
+          "status.type",
+          "homeScore.current",
+          "homeScore.display",
+          "homeScore.period2",
+          "awayScore.period2",
+          "time.currentPeriodStart"
+        ],
+        "changeTimestamp": 1676199783
       },
       "hasGlobalHighlights": true,
       "id": 11055797,
@@ -4454,10 +6366,11 @@
       },
       "customId": "zUtdsFpId",
       "status": {
-        "code": 0,
-        "description": "Not started",
-        "type": "notstarted"
+        "code": 1002,
+        "description": "Second game",
+        "type": "inprogress"
       },
+      "winnerCode": 2,
       "homeTeam": {
         "name": "XERXIA Esports",
         "slug": "xerxia-esports",
@@ -4496,12 +6409,27 @@
           "text": "#ffffff"
         }
       },
-      "homeScore": {},
-      "awayScore": {},
+      "homeScore": {
+        "current": 0,
+        "display": 0,
+        "period1": 0
+      },
+      "awayScore": {
+        "current": 1,
+        "display": 1,
+        "period1": 1
+      },
       "coverage": 91,
-      "time": {},
+      "time": {
+        "currentPeriodStartTimestamp": 1676205548
+      },
       "changes": {
-        "changeTimestamp": 0
+        "changes": [
+          "status.code",
+          "status.description",
+          "time.currentPeriodStart"
+        ],
+        "changeTimestamp": 1676205604
       },
       "hasGlobalHighlights": true,
       "id": 11055716,
@@ -4939,10 +6867,11 @@
       },
       "customId": "lKIdsVjKd",
       "status": {
-        "code": 0,
-        "description": "Not started",
-        "type": "notstarted"
+        "code": 100,
+        "description": "Ended",
+        "type": "finished"
       },
+      "winnerCode": 2,
       "homeTeam": {
         "name": "Team Cloud",
         "slug": "team-cloud",
@@ -4981,12 +6910,34 @@
           "text": "#ffffff"
         }
       },
-      "homeScore": {},
-      "awayScore": {},
+      "homeScore": {
+        "current": 1,
+        "display": 1,
+        "period1": 0,
+        "period2": 1,
+        "period3": 0
+      },
+      "awayScore": {
+        "current": 2,
+        "display": 2,
+        "period1": 1,
+        "period2": 0,
+        "period3": 1
+      },
       "coverage": 91,
       "time": {},
       "changes": {
-        "changeTimestamp": 0
+        "changes": [
+          "status.code",
+          "status.description",
+          "status.type",
+          "homeScore.period3",
+          "awayScore.current",
+          "awayScore.display",
+          "awayScore.period3",
+          "time.currentPeriodStart"
+        ],
+        "changeTimestamp": 1676187965
       },
       "hasGlobalHighlights": true,
       "id": 11033121,
@@ -5036,10 +6987,11 @@
       },
       "customId": "LBVcsiVId",
       "status": {
-        "code": 0,
-        "description": "Not started",
-        "type": "notstarted"
+        "code": 100,
+        "description": "Ended",
+        "type": "finished"
       },
+      "winnerCode": 1,
       "homeTeam": {
         "name": "Vici Gaming",
         "slug": "vici-gaming",
@@ -5078,12 +7030,32 @@
           "text": "#ffffff"
         }
       },
-      "homeScore": {},
-      "awayScore": {},
+      "homeScore": {
+        "current": 2,
+        "display": 2,
+        "period1": 1,
+        "period2": 1
+      },
+      "awayScore": {
+        "current": 0,
+        "display": 0,
+        "period1": 0,
+        "period2": 0
+      },
       "coverage": 91,
       "time": {},
       "changes": {
-        "changeTimestamp": 0
+        "changes": [
+          "status.code",
+          "status.description",
+          "status.type",
+          "homeScore.current",
+          "homeScore.display",
+          "homeScore.period2",
+          "awayScore.period2",
+          "time.currentPeriodStart"
+        ],
+        "changeTimestamp": 1676194386
       },
       "hasGlobalHighlights": true,
       "id": 11033153,
@@ -5133,10 +7105,11 @@
       },
       "customId": "oYkdsqOId",
       "status": {
-        "code": 0,
-        "description": "Not started",
-        "type": "notstarted"
+        "code": 100,
+        "description": "Ended",
+        "type": "finished"
       },
+      "winnerCode": 1,
       "homeTeam": {
         "name": "Ybb Gaming",
         "slug": "ybb-gaming",
@@ -5175,12 +7148,32 @@
           "text": "#ffffff"
         }
       },
-      "homeScore": {},
-      "awayScore": {},
+      "homeScore": {
+        "current": 2,
+        "display": 2,
+        "period1": 1,
+        "period2": 1
+      },
+      "awayScore": {
+        "current": 0,
+        "display": 0,
+        "period1": 0,
+        "period2": 0
+      },
       "coverage": 91,
       "time": {},
       "changes": {
-        "changeTimestamp": 0
+        "changes": [
+          "status.code",
+          "status.description",
+          "status.type",
+          "homeScore.current",
+          "homeScore.display",
+          "homeScore.period2",
+          "awayScore.period2",
+          "time.currentPeriodStart"
+        ],
+        "changeTimestamp": 1676206206
       },
       "hasGlobalHighlights": true,
       "id": 11033151,
@@ -5447,10 +7440,11 @@
       },
       "customId": "airdszUtd",
       "status": {
-        "code": 0,
-        "description": "Not started",
-        "type": "notstarted"
+        "code": 100,
+        "description": "Ended",
+        "type": "finished"
       },
+      "winnerCode": 1,
       "homeTeam": {
         "name": "XERXIA Esports",
         "slug": "xerxia-esports",
@@ -5489,12 +7483,34 @@
           "text": "#ffffff"
         }
       },
-      "homeScore": {},
-      "awayScore": {},
+      "homeScore": {
+        "current": 2,
+        "display": 2,
+        "period1": 1,
+        "period2": 0,
+        "period3": 1
+      },
+      "awayScore": {
+        "current": 1,
+        "display": 1,
+        "period1": 0,
+        "period2": 1,
+        "period3": 0
+      },
       "coverage": 91,
       "time": {},
       "changes": {
-        "changeTimestamp": 0
+        "changes": [
+          "status.code",
+          "status.description",
+          "status.type",
+          "homeScore.current",
+          "homeScore.display",
+          "homeScore.period3",
+          "awayScore.period3",
+          "time.currentPeriodStart"
+        ],
+        "changeTimestamp": 1676187184
       },
       "hasGlobalHighlights": true,
       "id": 11005085,
@@ -5544,10 +7560,11 @@
       },
       "customId": "vWkdskiud",
       "status": {
-        "code": 0,
-        "description": "Not started",
-        "type": "notstarted"
+        "code": 100,
+        "description": "Ended",
+        "type": "finished"
       },
+      "winnerCode": 2,
       "homeTeam": {
         "name": "UD Vessuwan",
         "slug": "ud-vessuwan",
@@ -5586,12 +7603,32 @@
           "text": "#ffffff"
         }
       },
-      "homeScore": {},
-      "awayScore": {},
+      "homeScore": {
+        "current": 0,
+        "display": 0,
+        "period1": 0,
+        "period2": 0
+      },
+      "awayScore": {
+        "current": 2,
+        "display": 2,
+        "period1": 1,
+        "period2": 1
+      },
       "coverage": 91,
       "time": {},
       "changes": {
-        "changeTimestamp": 0
+        "changes": [
+          "status.code",
+          "status.description",
+          "status.type",
+          "homeScore.period2",
+          "awayScore.current",
+          "awayScore.display",
+          "awayScore.period2",
+          "time.currentPeriodStart"
+        ],
+        "changeTimestamp": 1676196063
       },
       "hasGlobalHighlights": true,
       "id": 11005100,
@@ -5641,10 +7678,11 @@
       },
       "customId": "UgIdsnKId",
       "status": {
-        "code": 0,
-        "description": "Not started",
-        "type": "notstarted"
+        "code": 100,
+        "description": "Ended",
+        "type": "finished"
       },
+      "winnerCode": 1,
       "homeTeam": {
         "name": "Spawn Team",
         "slug": "spawn-team",
@@ -5683,12 +7721,32 @@
           "text": "#ffffff"
         }
       },
-      "homeScore": {},
-      "awayScore": {},
+      "homeScore": {
+        "current": 2,
+        "display": 2,
+        "period1": 1,
+        "period2": 1
+      },
+      "awayScore": {
+        "current": 0,
+        "display": 0,
+        "period1": 0,
+        "period2": 0
+      },
       "coverage": 91,
       "time": {},
       "changes": {
-        "changeTimestamp": 0
+        "changes": [
+          "status.code",
+          "status.description",
+          "status.type",
+          "homeScore.current",
+          "homeScore.display",
+          "homeScore.period2",
+          "awayScore.period2",
+          "time.currentPeriodStart"
+        ],
+        "changeTimestamp": 1676205365
       },
       "hasGlobalHighlights": true,
       "id": 11005099,
@@ -6794,10 +8852,11 @@
       },
       "customId": "DaWcsLypd",
       "status": {
-        "code": 0,
-        "description": "Not started",
-        "type": "notstarted"
+        "code": 1002,
+        "description": "Second game",
+        "type": "inprogress"
       },
+      "winnerCode": 1,
       "homeTeam": {
         "name": "HellRaisers",
         "slug": "hellraisers",
@@ -6836,12 +8895,27 @@
           "text": "#ffffff"
         }
       },
-      "homeScore": {},
-      "awayScore": {},
+      "homeScore": {
+        "current": 1,
+        "display": 1,
+        "period1": 1
+      },
+      "awayScore": {
+        "current": 0,
+        "display": 0,
+        "period1": 0
+      },
       "coverage": 91,
-      "time": {},
+      "time": {
+        "currentPeriodStartTimestamp": 1676208246
+      },
       "changes": {
-        "changeTimestamp": 0
+        "changes": [
+          "status.code",
+          "status.description",
+          "time.currentPeriodStart"
+        ],
+        "changeTimestamp": 1676208301
       },
       "hasGlobalHighlights": true,
       "id": 11055991,
@@ -8333,10 +10407,11 @@
       },
       "customId": "ROVcsBiJd",
       "status": {
-        "code": 0,
-        "description": "Not started",
-        "type": "notstarted"
+        "code": 100,
+        "description": "Ended",
+        "type": "finished"
       },
+      "winnerCode": 2,
       "homeTeam": {
         "name": "Hanwha Life Esports",
         "slug": "hanwha-life-esports",
@@ -8375,12 +10450,26 @@
           "text": "#ffffff"
         }
       },
-      "homeScore": {},
-      "awayScore": {},
+      "homeScore": {
+        "current": 0,
+        "display": 0
+      },
+      "awayScore": {
+        "current": 2,
+        "display": 2
+      },
       "coverage": 92,
       "time": {},
       "changes": {
-        "changeTimestamp": 0
+        "changes": [
+          "status.code",
+          "status.description",
+          "status.type",
+          "awayScore.current",
+          "awayScore.display",
+          "time.currentPeriodStart"
+        ],
+        "changeTimestamp": 1676187722
       },
       "hasGlobalHighlights": true,
       "id": 10970366,
@@ -8430,10 +10519,11 @@
       },
       "customId": "rFVcsqMVc",
       "status": {
-        "code": 0,
-        "description": "Not started",
-        "type": "notstarted"
+        "code": 100,
+        "description": "Ended",
+        "type": "finished"
       },
+      "winnerCode": 1,
       "homeTeam": {
         "name": "T1",
         "slug": "t1",
@@ -8472,12 +10562,26 @@
           "text": "#ffffff"
         }
       },
-      "homeScore": {},
-      "awayScore": {},
+      "homeScore": {
+        "current": 2,
+        "display": 2
+      },
+      "awayScore": {
+        "current": 0,
+        "display": 0
+      },
       "coverage": 92,
       "time": {},
       "changes": {
-        "changeTimestamp": 0
+        "changes": [
+          "status.code",
+          "status.description",
+          "status.type",
+          "homeScore.current",
+          "homeScore.display",
+          "time.currentPeriodStart"
+        ],
+        "changeTimestamp": 1676196603
       },
       "hasGlobalHighlights": true,
       "id": 10970365,
@@ -8946,10 +11050,11 @@
       },
       "customId": "bTVcsTPJd",
       "status": {
-        "code": 0,
-        "description": "Not started",
-        "type": "notstarted"
+        "code": 100,
+        "description": "Ended",
+        "type": "finished"
       },
+      "winnerCode": 2,
       "homeTeam": {
         "name": "FENNEL",
         "slug": "fennel",
@@ -8988,12 +11093,34 @@
           "text": "#ffffff"
         }
       },
-      "homeScore": {},
-      "awayScore": {},
+      "homeScore": {
+        "current": 1,
+        "display": 1,
+        "period1": 0,
+        "period2": 1,
+        "period3": 0
+      },
+      "awayScore": {
+        "current": 2,
+        "display": 2,
+        "period1": 1,
+        "period2": 0,
+        "period3": 1
+      },
       "coverage": 91,
       "time": {},
       "changes": {
-        "changeTimestamp": 0
+        "changes": [
+          "status.code",
+          "status.description",
+          "status.type",
+          "homeScore.period3",
+          "awayScore.current",
+          "awayScore.display",
+          "awayScore.period3",
+          "time.currentPeriodStart"
+        ],
+        "changeTimestamp": 1676198463
       },
       "hasGlobalHighlights": true,
       "id": 11011810,
@@ -9043,10 +11170,11 @@
       },
       "customId": "ALVcsDLVc",
       "status": {
-        "code": 0,
-        "description": "Not started",
-        "type": "notstarted"
+        "code": 1003,
+        "description": "Third game",
+        "type": "inprogress"
       },
+      "winnerCode": 3,
       "homeTeam": {
         "name": "AXIZ",
         "slug": "axiz",
@@ -9085,12 +11213,29 @@
           "text": "#ffffff"
         }
       },
-      "homeScore": {},
-      "awayScore": {},
+      "homeScore": {
+        "current": 1,
+        "display": 1,
+        "period1": 0,
+        "period2": 1
+      },
+      "awayScore": {
+        "current": 1,
+        "display": 1,
+        "period1": 1,
+        "period2": 0
+      },
       "coverage": 91,
-      "time": {},
+      "time": {
+        "currentPeriodStartTimestamp": 1676208039
+      },
       "changes": {
-        "changeTimestamp": 0
+        "changes": [
+          "status.code",
+          "status.description",
+          "time.currentPeriodStart"
+        ],
+        "changeTimestamp": 1676208062
       },
       "hasGlobalHighlights": true,
       "id": 11011809,
@@ -9140,10 +11285,11 @@
       },
       "customId": "rMVcsEnWc",
       "status": {
-        "code": 0,
-        "description": "Not started",
-        "type": "notstarted"
+        "code": 100,
+        "description": "Ended",
+        "type": "finished"
       },
+      "winnerCode": 2,
       "homeTeam": {
         "name": "LNG Esports",
         "slug": "lng-esports",
@@ -9182,12 +11328,26 @@
           "text": "#ffffff"
         }
       },
-      "homeScore": {},
-      "awayScore": {},
+      "homeScore": {
+        "current": 1,
+        "display": 1
+      },
+      "awayScore": {
+        "current": 2,
+        "display": 2
+      },
       "coverage": 92,
       "time": {},
       "changes": {
-        "changeTimestamp": 0
+        "changes": [
+          "status.code",
+          "status.description",
+          "status.type",
+          "awayScore.current",
+          "awayScore.display",
+          "time.currentPeriodStart"
+        ],
+        "changeTimestamp": 1676195407
       },
       "hasGlobalHighlights": true,
       "id": 10976562,
@@ -9237,10 +11397,11 @@
       },
       "customId": "EeWcsJqWc",
       "status": {
-        "code": 0,
-        "description": "Not started",
-        "type": "notstarted"
+        "code": 100,
+        "description": "Ended",
+        "type": "finished"
       },
+      "winnerCode": 1,
       "homeTeam": {
         "name": "Royal Never Give Up",
         "slug": "royal-never-give-up",
@@ -9279,12 +11440,26 @@
           "text": "#ffffff"
         }
       },
-      "homeScore": {},
-      "awayScore": {},
+      "homeScore": {
+        "current": 2,
+        "display": 2
+      },
+      "awayScore": {
+        "current": 1,
+        "display": 1
+      },
       "coverage": 92,
       "time": {},
       "changes": {
-        "changeTimestamp": 0
+        "changes": [
+          "status.code",
+          "status.description",
+          "status.type",
+          "homeScore.current",
+          "homeScore.display",
+          "time.currentPeriodStart"
+        ],
+        "changeTimestamp": 1676201822
       },
       "hasGlobalHighlights": true,
       "id": 10976561,
@@ -9334,10 +11509,11 @@
       },
       "customId": "lmWcsdrWc",
       "status": {
-        "code": 0,
-        "description": "Not started",
-        "type": "notstarted"
+        "code": 100,
+        "description": "Ended",
+        "type": "finished"
       },
+      "winnerCode": 2,
       "homeTeam": {
         "name": "Bilibili Gaming",
         "slug": "bilibili-gaming",
@@ -9376,18 +11552,32 @@
           "text": "#ffffff"
         }
       },
-      "homeScore": {},
-      "awayScore": {},
+      "homeScore": {
+        "current": 0,
+        "display": 0
+      },
+      "awayScore": {
+        "current": 2,
+        "display": 2
+      },
       "coverage": 92,
       "time": {},
       "changes": {
-        "changeTimestamp": 0
+        "changes": [
+          "status.code",
+          "status.description",
+          "status.type",
+          "awayScore.current",
+          "awayScore.display",
+          "time.currentPeriodStart"
+        ],
+        "changeTimestamp": 1676205484
       },
       "hasGlobalHighlights": true,
       "id": 10976560,
       "bestOf": 3,
       "eventType": "best_of",
-      "startTimestamp": 1676199600,
+      "startTimestamp": 1676200200,
       "slug": "edward-gaming-bilibili-gaming",
       "finalResultOnly": false
     },
@@ -9857,10 +12047,11 @@
       },
       "customId": "imndsWPJd",
       "status": {
-        "code": 0,
-        "description": "Not started",
-        "type": "notstarted"
+        "code": 100,
+        "description": "Ended",
+        "type": "finished"
       },
+      "winnerCode": 2,
       "homeTeam": {
         "name": "SEM9 WPE",
         "slug": "sem9-wpe",
@@ -9899,12 +12090,30 @@
           "text": "#ffffff"
         }
       },
-      "homeScore": {},
-      "awayScore": {},
+      "homeScore": {
+        "current": 0,
+        "display": 0,
+        "period1": 0
+      },
+      "awayScore": {
+        "current": 1,
+        "display": 1,
+        "period1": 1
+      },
       "coverage": 91,
       "time": {},
       "changes": {
-        "changeTimestamp": 0
+        "changes": [
+          "status.code",
+          "status.description",
+          "status.type",
+          "homeScore.period1",
+          "awayScore.current",
+          "awayScore.display",
+          "awayScore.period1",
+          "time.currentPeriodStart"
+        ],
+        "changeTimestamp": 1676194862
       },
       "hasGlobalHighlights": true,
       "id": 11015080,
@@ -9954,10 +12163,11 @@
       },
       "customId": "UmndsMoJd",
       "status": {
-        "code": 0,
-        "description": "Not started",
-        "type": "notstarted"
+        "code": 100,
+        "description": "Ended",
+        "type": "finished"
       },
+      "winnerCode": 2,
       "homeTeam": {
         "name": "Deep Cross Gaming",
         "slug": "deep-cross-gaming",
@@ -9996,12 +12206,30 @@
           "text": "#ffffff"
         }
       },
-      "homeScore": {},
-      "awayScore": {},
+      "homeScore": {
+        "current": 0,
+        "display": 0,
+        "period1": 0
+      },
+      "awayScore": {
+        "current": 1,
+        "display": 1,
+        "period1": 1
+      },
       "coverage": 91,
       "time": {},
       "changes": {
-        "changeTimestamp": 0
+        "changes": [
+          "status.code",
+          "status.description",
+          "status.type",
+          "homeScore.period1",
+          "awayScore.current",
+          "awayScore.display",
+          "awayScore.period1",
+          "time.currentPeriodStart"
+        ],
+        "changeTimestamp": 1676198285
       },
       "hasGlobalHighlights": true,
       "id": 11015026,
@@ -10051,10 +12279,11 @@
       },
       "customId": "mDVcsYmad",
       "status": {
-        "code": 0,
-        "description": "Not started",
-        "type": "notstarted"
+        "code": 100,
+        "description": "Ended",
+        "type": "finished"
       },
+      "winnerCode": 2,
       "homeTeam": {
         "name": "PSG Talon",
         "slug": "psg-talon",
@@ -10093,12 +12322,30 @@
           "text": "#ffffff"
         }
       },
-      "homeScore": {},
-      "awayScore": {},
+      "homeScore": {
+        "current": 0,
+        "display": 0,
+        "period1": 0
+      },
+      "awayScore": {
+        "current": 1,
+        "display": 1,
+        "period1": 1
+      },
       "coverage": 91,
       "time": {},
       "changes": {
-        "changeTimestamp": 0
+        "changes": [
+          "status.code",
+          "status.description",
+          "status.type",
+          "homeScore.period1",
+          "awayScore.current",
+          "awayScore.display",
+          "awayScore.period1",
+          "time.currentPeriodStart"
+        ],
+        "changeTimestamp": 1676202182
       },
       "hasGlobalHighlights": true,
       "id": 11015052,
@@ -10148,10 +12395,11 @@
       },
       "customId": "TmndsgVrd",
       "status": {
-        "code": 0,
-        "description": "Not started",
-        "type": "notstarted"
+        "code": 100,
+        "description": "Ended",
+        "type": "finished"
       },
+      "winnerCode": 2,
       "homeTeam": {
         "name": "Dewish Team",
         "slug": "dewish-team",
@@ -10190,12 +12438,30 @@
           "text": "#ffffff"
         }
       },
-      "homeScore": {},
-      "awayScore": {},
+      "homeScore": {
+        "current": 0,
+        "display": 0,
+        "period1": 0
+      },
+      "awayScore": {
+        "current": 1,
+        "display": 1,
+        "period1": 1
+      },
       "coverage": 91,
       "time": {},
       "changes": {
-        "changeTimestamp": 0
+        "changes": [
+          "status.code",
+          "status.description",
+          "status.type",
+          "homeScore.period1",
+          "awayScore.current",
+          "awayScore.display",
+          "awayScore.period1",
+          "time.currentPeriodStart"
+        ],
+        "changeTimestamp": 1676205184
       },
       "hasGlobalHighlights": true,
       "id": 11015019,
@@ -10245,10 +12511,11 @@
       },
       "customId": "wbWcsXmad",
       "status": {
-        "code": 0,
-        "description": "Not started",
-        "type": "notstarted"
+        "code": 1001,
+        "description": "First game",
+        "type": "inprogress"
       },
+      "winnerCode": 3,
       "homeTeam": {
         "name": "J Team",
         "slug": "j-team",
@@ -10287,12 +12554,30 @@
           "text": "#ffffff"
         }
       },
-      "homeScore": {},
-      "awayScore": {},
+      "homeScore": {
+        "current": 0,
+        "display": 0
+      },
+      "awayScore": {
+        "current": 0,
+        "display": 0
+      },
       "coverage": 91,
-      "time": {},
+      "time": {
+        "currentPeriodStartTimestamp": 1676206462
+      },
       "changes": {
-        "changeTimestamp": 0
+        "changes": [
+          "homeScore.display",
+          "awayScore.display",
+          "status.code",
+          "status.description",
+          "status.type",
+          "homeScore.current",
+          "awayScore.current",
+          "time.currentPeriodStart"
+        ],
+        "changeTimestamp": 1676206502
       },
       "hasGlobalHighlights": true,
       "id": 11015009,
@@ -10690,11 +12975,11 @@
       },
       "customId": "ZCqdscDqd",
       "status": {
-        "code": 1001,
-        "description": "First game",
-        "type": "inprogress"
+        "code": 100,
+        "description": "Ended",
+        "type": "finished"
       },
-      "winnerCode": 3,
+      "winnerCode": 2,
       "homeTeam": {
         "name": "Tomorrow Esports",
         "slug": "tomorrow-esports",
@@ -10735,28 +13020,28 @@
       },
       "homeScore": {
         "current": 0,
-        "display": 0
+        "display": 0,
+        "period1": 0
       },
       "awayScore": {
-        "current": 0,
-        "display": 0
+        "current": 1,
+        "display": 1,
+        "period1": 1
       },
       "coverage": 91,
-      "time": {
-        "currentPeriodStartTimestamp": 1676175566
-      },
+      "time": {},
       "changes": {
         "changes": [
           "status.code",
           "status.description",
           "status.type",
-          "homeScore.current",
-          "homeScore.display",
+          "homeScore.period1",
           "awayScore.current",
           "awayScore.display",
+          "awayScore.period1",
           "time.currentPeriodStart"
         ],
-        "changeTimestamp": 1676175602
+        "changeTimestamp": 1676178723
       },
       "hasGlobalHighlights": true,
       "id": 10987094,
