@@ -10,12 +10,13 @@ function App() {
         <Navbar />
       </div>
         
-        <div className=" flex md:min-h-screen max-w-[1240px] mx-auto my-10 justify-center items-start">
+        <div className=" flex md:min-h-screen max-w-[1480px] mx-auto my-10 justify-center items-start">
           <div className="bg-pink-500 sm:min-h-full w-3/12 border border-gray-400">
             <Left />
           </div>
           <div className="bg-pink-500 sm:min-h-full flex-grow border border-gray-400">
-            <Center />
+            <div><Center /></div>
+            <div></div>
           </div>
           <div className="bg-pink-500 sm:min-h-full w-3/12 border border-gray-400 flex flex-col justify-start align-middle">
             <div className="flex">
