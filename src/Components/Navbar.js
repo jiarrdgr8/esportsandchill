@@ -5,7 +5,7 @@ import logo from '../assets/logo192.png'
 const Navbar = () => {
 
   return (
-    <div className="flex text-white bg-gray-800 max-w-[1240px] justify-between max-h-20 mx-auto">
+    <div className="flex text-white bg-gray-800 max-w-[1480px] justify-between max-h-20 mx-auto">
       <div className="flex-shrink-0">
         <img className="max-h-20 p-3"  src={logo} alt="okayy" />
       </div>
