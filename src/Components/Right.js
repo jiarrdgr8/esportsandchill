@@ -1,18 +1,18 @@
 import React from 'react'
 import { useEffect, useState } from 'react';
-import axios from 'axios'
+// import axios from 'axios'
 
 
 
 
 const options = {
-  method: 'GET',
-  url: 'https://esportapi1.p.rapidapi.com/api/esport/matches/23/2/2023',
-  headers: {
-    'X-RapidAPI-Key': '794bdf6fd2mshfdefe85d9c592e0p1293d9jsnf25ae765086e',
-    'X-RapidAPI-Host': 'esportapi1.p.rapidapi.com'
-  }
+	method: 'GET',
+	headers: {
+		'X-RapidAPI-Key': '794bdf6fd2mshfdefe85d9c592e0p1293d9jsnf25ae765086e',
+		'X-RapidAPI-Host': 'esportapi1.p.rapidapi.com'
+	}
 };
+
 
 const local_url = 'http://localhost:3000/file.txt'
 
@@ -24,12 +24,15 @@ function Right() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await axios.request(options);
+        // const response = await axios.request(options);
+
+        const response = await fetch('https://esportapi1.p.rapidapi.com/api/esport/matches/23/2/2023', options)
+        const data = await response.json(); 
 
         const intervalId = setInterval(() => {
           setCurrentTime(new Date())}, 5000)
 
-          const dotaMatches = response.data.events.filter((game) => {
+        const dotaMatches = data.events.filter((game) => {
           return game.tournament.category.flag === 'dota-2';
         });
 
