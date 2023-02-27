@@ -7,7 +7,7 @@ import axios from 'axios'
 
 const options = {
   method: 'GET',
-  url: 'https://esportapi1.p.rapidapi.com/api/esport/matches/23/2/2023',
+  url: 'https://esportapi1.p.rapidapi.com/api/esport/matches/25/2/2023',
   headers: {
     'X-RapidAPI-Key': '794bdf6fd2mshfdefe85d9c592e0p1293d9jsnf25ae765086e',
     'X-RapidAPI-Host': 'esportapi1.p.rapidapi.com'
@@ -36,6 +36,7 @@ function Right() {
         dotaMatches.sort((a, b) => {
           return a.startTimestamp - b.startTimestamp;
         });
+        
         setDotaMatches(dotaMatches);
         console.log(dotaMatches); 
 
